@@ -7,3 +7,5 @@ test
 test finished
 
 this is modified by git
+
+added run_analysis.R
